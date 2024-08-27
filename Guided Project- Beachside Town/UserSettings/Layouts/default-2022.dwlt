@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 790.4
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 103
+  controlID: 93
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -138,7 +138,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 781.6
+    width: 748
     height: 740.4
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -165,14 +165,14 @@ MonoBehaviour:
   - {fileID: 9}
   m_Position:
     serializedVersion: 2
-    x: 781.6
+    x: 748
     y: 0
-    width: 321.59998
+    width: 359.19995
     height: 740.4
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 49
+  controlID: 27
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,7 +190,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 321.59998
+    width: 359.19995
     height: 345.6
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -216,7 +216,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 345.6
-    width: 321.59998
+    width: 359.19995
     height: 394.80002
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
@@ -241,9 +241,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1103.2
+    x: 1107.2
     y: 0
-    width: 432.80005
+    width: 428.80005
     height: 740.4
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
@@ -274,7 +274,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73.6
-    width: 780.6
+    width: 747
     height: 719.4
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -660,9 +660,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -22.931767, y: -4.181133, z: 2.5701923}
+    m_Target: {x: 2.460624, y: -0.81340075, z: -6.5325017}
     speed: 2
-    m_Value: {x: -22.931767, y: -4.181133, z: 2.5701923}
+    m_Value: {x: 2.460624, y: -0.81340075, z: -6.5325017}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -708,13 +708,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.1050918, y: -0.7952497, z: 0.14422771, w: 0.5794727}
+    m_Target: {x: -0.321157, y: 0.47087032, z: -0.18912473, w: -0.79964745}
     speed: 2
-    m_Value: {x: 0.10530505, y: -0.7943571, z: 0.14406584, w: 0.58064854}
+    m_Value: {x: -0.3217125, y: 0.46845403, z: -0.18815431, w: -0.80103046}
   m_Size:
-    m_Target: 11.642736
+    m_Target: 8.846086
     speed: 2
-    m_Value: 11.141375
+    m_Value: 8.846086
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -859,9 +859,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 781.60004
+    x: 748
     y: 73.6
-    width: 319.59998
+    width: 357.19995
     height: 324.6
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -875,10 +875,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 912.4}
-      m_SelectedIDs: 046e0000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: f4690000ec010000
       m_LastClickedID: 0
-      m_ExpandedIDs: 9ef1ffffa2f1ffffa6f1ffffb2f1ffffc6f2fffffcf2ffff10f3ffff5cf4ffff70f5ffff7ef8ffff02fbffff06fbffff12fbffff16fbffff18fbffff
+      m_ExpandedIDs: aef2ffffe4faffffe8faffffeafaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -922,9 +922,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 781.60004
+    x: 748
     y: 419.2
-    width: 319.59998
+    width: 357.19995
     height: 373.80002
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -947,7 +947,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/GuidedProject/BeachsideTown/Models/Characters
+    - Assets/GuidedProject/BeachsideTown/Shaders
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -955,17 +955,17 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 65
   m_LastFolders:
-  - Assets/GuidedProject/BeachsideTown/Models/Characters
+  - Assets/GuidedProject/BeachsideTown/Shaders
   m_LastFoldersGridSize: 65
-  m_LastProjectPath: D:\Personal\Drive\Non drive\Github\Creative Core\Guided Project-
-    Beachside Town
+  m_LastProjectPath: D:\Personal\Non-drive\Github\Creative-Core\Guided Project- Beachside
+    Town
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fa7f0000
-    m_LastClickedID: 32762
-    m_ExpandedIDs: 00000000a87d0000aa7d0000ac7d00007a7f00000c82000000ca9a3b
+    m_SelectedIDs: c67f0000
+    m_LastClickedID: 32710
+    m_ExpandedIDs: 00000000c27d0000987f00009a7f00009e7f0000ba7f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -993,7 +993,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a87d0000aa7d0000ac7d0000
+    m_ExpandedIDs: 00000000c27d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1069,9 +1069,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 691.2
+    x: 748
     y: 419.2
-    width: 330
+    width: 357.19995
     height: 373.80002
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1103,9 +1103,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1103.2001
+    x: 1107.2001
     y: 73.6
-    width: 431.80005
+    width: 427.80005
     height: 719.4
   m_SerializedDataModeController:
     m_DataMode: 0
